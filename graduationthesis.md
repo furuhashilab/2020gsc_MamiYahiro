@@ -60,7 +60,8 @@ https://www.mapillary.com/app/?lat=35.29994325461165&lng=139.48191997996355&z=16
 
 <img width="547" alt="スクリーンショット 2021-01-24 22 19 37" src="https://user-images.githubusercontent.com/62396682/105632611-715e2500-5e97-11eb-9a60-4fa00667cf9a.png">
 
-![IMG_3466](https://user-images.githubusercontent.com/62396682/105633944-db2dfd00-5e9e-11eb-84fa-2e02e1cacb6a.PNG)
+![IMG_3558](https://user-images.githubusercontent.com/62396682/105634001-2516e300-5e9f-11eb-8086-f5dd9ce5457e.PNG)
+
 
 
 
