@@ -65,7 +65,8 @@ https://www.youtube.com/watch?v=zTxDFdXQszQ
 ##発表スライド
 https://docs.google.com/presentation/d/1cEBjKiPL-u592-OCiDfPeLQNcb3bG43CjLL2X7prPjY/edit?usp=sharing
 
-
+## プロジェクトリンク
+https://github.com/furuhashilab/sotsuron2020/projects/26
 
 
 
