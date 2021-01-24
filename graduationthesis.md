@@ -57,7 +57,9 @@ https://www.mapillary.com/app/?lat=35.29994325461165&lng=139.48191997996355&z=16
 <img width="1440" alt="スクリーンショット 2021-01-24 22 12 26" src="https://user-images.githubusercontent.com/62396682/105632530-eed56580-5e96-11eb-81e4-670fe9342fed.png">
 
 やっていく中で立ち入り禁止の紙が貼られていたり柵で通れない道もあることに気がついた。
+
 （１）
+
 <img width="547" alt="スクリーンショット 2021-01-24 22 19 37" src="https://user-images.githubusercontent.com/62396682/105632611-715e2500-5e97-11eb-9a60-4fa00667cf9a.png">
 
 ![IMG_3558](https://user-images.githubusercontent.com/62396682/105634001-2516e300-5e9f-11eb-8086-f5dd9ce5457e.PNG)
@@ -66,6 +68,7 @@ https://www.mapillary.com/app/?lat=35.29994325461165&lng=139.48191997996355&z=16
 
 
 （２）
+
 <img width="552" alt="スクリーンショット 2021-01-24 22 21 00" src="https://user-images.githubusercontent.com/62396682/105632634-905cb700-5e97-11eb-9c72-1b7b0e05f5fe.png">
 
 ![IMG_3455](https://user-images.githubusercontent.com/62396682/105633925-ba65a780-5e9e-11eb-930e-268cd61eebe2.PNG)
