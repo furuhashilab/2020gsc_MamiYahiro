@@ -2,7 +2,6 @@
 ## 2020年度　八尋舞美ゼミ論用レポジトリ
 
 
-2020年
 
 青山学院大学　地球社会共生学部　地球社会共生学科
 
@@ -18,3 +17,5 @@
 ## ゼミ論本文
 https://github.com/furuhashilab/2020gsc_MamiYahiro/blob/master/graduationthesis.md
 
+## 発表スライド
+https://docs.google.com/presentation/d/1cEBjKiPL-u592-OCiDfPeLQNcb3bG43CjLL2X7prPjY/edit?usp=sharing
