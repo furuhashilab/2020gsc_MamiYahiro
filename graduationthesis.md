@@ -14,11 +14,11 @@
 
 
 
-## 序論:
+## 序論
 江ノ島は神奈川県藤沢市ににある陸繋島で、江島神社や展望台などがあり観光地として人気の場所である。Mapillaryで江ノ島を見てみると観光客がよく通る参道や神社周辺、展望台までの道などは整備されているが、少し離れた住宅街や、裏道などはあまりマッピングされていなかった。今回のゼミ論ではこのようにマッピングがまだされていない道を整備していく。
 
 
-## 研究方法:
+## 研究方法
 今回は360度カメラでの撮影を行った。使用した360度カメラはRICOHのTHETA Z1である。まずはオンライン説明書を読み基本的な使い方を勉強した。またiphone専用のTHETAのアプリにも動画での説明が乗っている。次に実際に撮影しにいく前に目黒純さんの発表動画を見て、Mapillaryでのマッピングのコツを学んだ。
 
 RICOHのTHETA Z1のオンライン説明書
@@ -39,7 +39,7 @@ https://theta360.com/ja/about/application/basic.html
 
 
 
-## 研究結果:
+## 研究結果
 
 2020年１月２５日時点での様子
 https://www.mapillary.com/app/?lat=35.29989333744744&lng=139.48194668220754&z=16.38343416304786&dateTo=2020-01-25
@@ -59,11 +59,11 @@ https://www.mapillary.com/app/?lat=35.29994325461165&lng=139.48191997996355&z=16
 
 
 
-## 考察・まとめ:
+## 考察・まとめ
 
 実際にやってみて、人通りの少ない住宅街や、細い裏道などがほとんどマッピングされていないということを感じた。今回マッピングした道は坂が急であったり、道が細かったりと足場の悪い道も多くあった。今回は360度カメラを用いてマッピングしたが、Mapillaryのアプリをダウンロードすれば誰でもマッピングできるということに感動した。今回マッピングした箇所が、その付近に住む住人の方や、観光客の役に立ってくれたら嬉しい。
 
-##参考文献
+## 参考文献
 https://theta360.com/ja/about/theta/z1.html
 
 https://theta360.com/ja/about/application/basic.html
@@ -71,7 +71,7 @@ https://theta360.com/ja/about/application/basic.html
 https://www.youtube.com/watch?v=zTxDFdXQszQ
 
 
-##発表スライド
+## 発表スライド
 https://docs.google.com/presentation/d/1cEBjKiPL-u592-OCiDfPeLQNcb3bG43CjLL2X7prPjY/edit?usp=sharing
 
 ## プロジェクトリンク
