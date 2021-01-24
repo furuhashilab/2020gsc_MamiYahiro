@@ -1,5 +1,5 @@
 # 2020gsc_MamiYahiro
-## 江ノ島のMapillaryが整備されていない道をマッピングする
+## 2020年度　八尋舞美ゼミ論用レポジトリ
 
 
 2020年
@@ -14,27 +14,7 @@
 
 © Furuhashi Laboratory/Mami Yahiro, CC BY 4.0
 
-# 全体構成（IMRAD形式）
 
-## 序論:
-江ノ島は神奈川県藤沢市ににある陸繋島で、江島神社や展望台などがあり観光地として人気の場所である。Mapillaryを
+## ゼミ論本文
+https://github.com/furuhashilab/2020gsc_MamiYahiro/blob/master/graduationthesis.md
 
-
-## 研究方法:
-今回は360度カメラでの撮影を行った。使用した360度カメラはRICOHのTHETA Z1である。まずはオンライン説明書を読み基本的な使い方を勉強した。次に実際に撮影しにいく前に目黒純さんの発表動画を見て、Mapillaryでのマッピングのコツを学んだ。
-
-## 研究結果:
-
-
-## 考察・まとめ:
-
-
-
-
-## 参考文献:
-
-## 謝辞:
-
-
-
-#
