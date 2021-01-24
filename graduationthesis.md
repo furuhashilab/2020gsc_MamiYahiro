@@ -41,11 +41,31 @@ https://www.mapillary.com/app/?lat=35.29989333744744&lng=139.48194668220754&z=16
 2021年１月２４日時点の様子
 https://www.mapillary.com/app/?lat=35.29994325461165&lng=139.48191997996355&z=16.44815707104793
 
+<img width="1440" alt="スクリーンショット 2021-01-24 22 13 17" src="https://user-images.githubusercontent.com/62396682/105632518-d8c7a500-5e96-11eb-907d-a29496da2749.png">
 
+<img width="1440" alt="スクリーンショット 2021-01-24 22 12 26" src="https://user-images.githubusercontent.com/62396682/105632530-eed56580-5e96-11eb-81e4-670fe9342fed.png">
+
+やっていく中で立ち入り禁止の紙が貼られていたり柵で通れない道もあることに気がついた。
+
+<img width="547" alt="スクリーンショット 2021-01-24 22 19 37" src="https://user-images.githubusercontent.com/62396682/105632611-715e2500-5e97-11eb-9a60-4fa00667cf9a.png">
+
+<img width="552" alt="スクリーンショット 2021-01-24 22 21 00" src="https://user-images.githubusercontent.com/62396682/105632634-905cb700-5e97-11eb-9c72-1b7b0e05f5fe.png">
 
 
 
 ## 考察・まとめ:
+
+実際にやってみて、人通りの少ない住宅街や、細い裏道などがほとんどマッピングされていないということを感じた。今回マッピングした道は坂が急であったり、道が細かったりと足場の悪い道も多くあった。今回は360度カメラを用いてマッピングしたが、Mapillaryのアプリをダウンロードすれば誰でもマッピングできるということに感動した。今回マッピングした箇所が、その付近に住む住人の方や、観光客の役に立ってくれたら嬉しい。
+
+##参考文献
+https://theta360.com/ja/about/theta/z1.html
+https://theta360.com/ja/about/application/basic.html
+https://www.youtube.com/watch?v=zTxDFdXQszQ
+
+##発表スライド
+https://docs.google.com/presentation/d/1cEBjKiPL-u592-OCiDfPeLQNcb3bG43CjLL2X7prPjY/edit?usp=sharing
+
+
 
 
 
