@@ -19,3 +19,9 @@ https://github.com/furuhashilab/2020gsc_MamiYahiro/blob/master/graduationthesis.
 
 ## 発表スライド
 https://docs.google.com/presentation/d/1cEBjKiPL-u592-OCiDfPeLQNcb3bG43CjLL2X7prPjY/edit?usp=sharing
+
+
+## 参考文献
+ https://theta360.com/ja/about/application/basic.html
+ https://theta360.com/ja/about/theta/z1.html
+https://www.youtube.com/watch?v=zTxDFdXQszQ
