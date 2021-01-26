@@ -73,12 +73,15 @@ https://www.mapillary.com/app/?lat=35.29994325461165&lng=139.48191997996355&z=16
 
 ![IMG_3455](https://user-images.githubusercontent.com/62396682/105633925-ba65a780-5e9e-11eb-930e-268cd61eebe2.PNG)
 
+
+
 ## GoogleマップとMapillaryの比較
 
 ・Googleマップ
 <img width="1439" alt="スクリーンショット 2021-01-25 18 03 31" src="https://user-images.githubusercontent.com/62396682/105869595-bcfd0400-603a-11eb-9250-22c45062b34e.png">
 
 青い線がストリートビュー/ 青丸の部分が360度画像
+
 
 ・Mapillary
 
@@ -90,7 +93,11 @@ https://www.mapillary.com/app/?lat=35.29994325461165&lng=139.48191997996355&z=16
 <img width="1093" alt="スクリーンショット 2021-01-25 19 46 37" src="https://user-images.githubusercontent.com/62396682/105870425-9c817980-603b-11eb-80cc-9ae22fe7213e.png">
 
 
-##写真からの気付き
+
+
+
+
+## 写真からの気付き
 
 <img width="1437" alt="スクリーンショット 2021-01-25 19 23 41" src="https://user-images.githubusercontent.com/62396682/105873067-701b2c80-603e-11eb-98c4-9615e20701b8.png">
 
@@ -98,7 +105,7 @@ https://www.mapillary.com/app/?lat=35.29994325461165&lng=139.48191997996355&z=16
 
 ![IMG_3585 3](https://user-images.githubusercontent.com/62396682/105873790-326ad380-603f-11eb-8c37-0cef1fb35cb5.jpg)
 
-この2箇所は地図上では道で繋がっているが写真で見ると道すらないことがわかる。
+この2箇所は地図上では道で繋がっているが写真で見ると道すらないことがわかる。一枚目は、その先が住民の家になっており、手前の門までしか行けなかった。
 
 
 
